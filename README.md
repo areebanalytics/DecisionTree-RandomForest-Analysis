@@ -48,3 +48,7 @@ Random Forest outperformed the Decision Tree model with better generalization an
 Tree-based models are effective for income prediction tasks. Random Forest, due to its ensemble nature, provides more reliable predictions and reduces overfitting compared to a single Decision Tree.
 
 https://colab.research.google.com/drive/1uIp75Po_opQsFBHaXoWUYKBGZGv52phg?usp=drive_link
+
+LINK FOR DATASETS IN URL FORM:
+https://raw.githubusercontent.com/Aditya-Mankar/Census-Income-Prediction/master/adult.csv
+https://raw.githubusercontent.com/pplonski/datasets-for-start/master/adult/data.csv
